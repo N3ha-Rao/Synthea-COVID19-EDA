@@ -19,6 +19,20 @@ The analysis utilizes the Synthea COVID-19 dataset, which can be downloaded dire
 wget -O 10k_synthea_covid19_csv.zip "https://mitre.box.com/shared/static/9iglv8kbs1pfi7z8phjl9sbpjk08spze.zip"
 ```
 
+**Using `curl`:**
+
+```bash
+curl -L -o 10k_synthea_covid19_csv.zip "https://mitre.box.com/shared/static/9iglv8kbs1pfi7z8phjl9sbpjk08spze.zip"
+```
+
+After downloading, extract the contents using:
+
+```bash
+unzip 10k_synthea_covid19_csv.zip
+```
+
+Ensure that the extracted CSV files are in the same directory as the analysis script.
+
 ## Analysis Overview
 
 1. **Patient Demographics**:
