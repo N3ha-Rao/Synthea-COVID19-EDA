@@ -6,7 +6,7 @@ Synthea is an open-source tool that generates synthetic patient data, providing 
 
 Citation: Walonoski J, Klaus S, Granger E, Hall D, Gregorowicz A, Neyarapally G, Watson A, Eastman J. Synthea™ Novel coronavirus (COVID-19) model and synthetic data set. Intelligence-Based Medicine. 2020 Nov;1:100007. https://doi.org/10.1016/j.ibmed.2020.100007
 
-## Datasets
+## Dataset
 
 The analysis utilizes the Synthea COVID-19 dataset, which can be downloaded directly from the command line. The following CSV files are analyzed:
 
